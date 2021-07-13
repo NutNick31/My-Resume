@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    color: #40514E;
+}
+.top-container{
+    position: relative;
+    background-color: #B5EAEA;
+    height: 700px;
+    text-align: center;
+    padding-top: 100px;
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+.text{
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    right: 600px;
+    font-family: 'Merriweather', serif;
+}
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.cloud2{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.mountain{
+    position: absolute;
+    bottom: 5px;
+    left: 200px;
+    right: 200px;
+}
